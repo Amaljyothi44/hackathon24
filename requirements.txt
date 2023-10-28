@@ -14,7 +14,6 @@ confection
 cryptography
 cymem
 docx2txt
-en-core-web-sm
 Flask
 idna
 itsdangerous
