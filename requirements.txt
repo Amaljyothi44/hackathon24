@@ -40,8 +40,6 @@ pycparser
 pycryptodome
 pydantic
 pydantic_core
-PyMuPDF
-PyMuPDFb
 pyresparser
 pyrsistent
 pytesseract
