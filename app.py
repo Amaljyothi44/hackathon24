@@ -5,6 +5,8 @@ import os
 import fitz
 import re
 import requests
+import nltk
+nltk.download('stopwords')
 
 app = Flask(__name__)
 app.secret_key = 'cgft86ogouhgouyrvoi' 
