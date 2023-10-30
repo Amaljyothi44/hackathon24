@@ -64,3 +64,4 @@ urllib3
 wasabi
 weasel
 Werkzeug
+flask
